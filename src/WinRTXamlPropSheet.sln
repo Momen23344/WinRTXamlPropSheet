@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.36422.26
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinRTXamlPropSheet", "WinRTXamlPropSheet.vcxproj", "{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|ARM.ActiveCfg = Release|ARM
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|ARM.Build.0 = Release|ARM
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|ARM64.ActiveCfg = Release|ARM64
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|ARM64.Build.0 = Release|ARM64
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|x64.ActiveCfg = Release|x64
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|x64.Build.0 = Release|x64
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|x86.ActiveCfg = Release|x64
+		{22539687-9B4C-4D2F-9A3E-0ACFD46D1469}.Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4CBD7A-4817-41DB-84F0-F2C3B8786E83}
+	EndGlobalSection
+EndGlobal
